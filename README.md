@@ -19,7 +19,7 @@ La aplicación permite gestionar usuarios y productos con autenticación basada 
 
 ### 1. Clonar repositorio
 ```bash
-git clone <URL_REPO>
+git clone (https://github.com/Kathefuenzalida/P6.git)
 cd proyecto_6
 2. Instalar dependencias
 bash
