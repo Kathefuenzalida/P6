@@ -30,7 +30,7 @@ Crea un archivo .env en la raíz con:
 
 env
 Copiar código
-MONGO_URI=mongodb://127.0.0.1:27017/BootcampUDD
+MONGO_URI=mongodb+srv://admin:admin@bootcampudd.hb2vj1c.mongodb.net/BootcampUDD?retryWrites=true&w=majority
 PORT=3000
 JWT_SECRET=nosenosabe
 4. Levantar el servidor
@@ -82,5 +82,5 @@ Listado de productos (/readall)
 
 Update y Delete de producto
 
-✍️ Autor: Katherine Fuenzalida Rojas
+✍️ Autor: Katherine Fuenzalida
 📅 Proyecto Fullstack Bootcamp - Módulo 6

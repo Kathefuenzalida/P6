@@ -20,7 +20,7 @@ const options = {
       description: "API de usuarios y productos con autenticación",
     },
   },
-  apis: ["./src/routes/*.js"], // toma la documentación desde tus rutas
+  apis: ["./src/routes/*.js"], 
 };
 
 const swaggerSpec = swaggerJSDoc(options);

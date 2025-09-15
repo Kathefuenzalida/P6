@@ -8,7 +8,7 @@ const userRoutes = require('./routes/userRoutes');
 const productRoutes = require('./routes/productRoutes');
 const swaggerDocs = require('./swagger');
 
-const app = express(); // <- primero defines app
+const app = express(); 
 
 app.use(express.json());
 app.use(cors());
